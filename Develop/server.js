@@ -1,6 +1,5 @@
 //require the express module
 const express = require("express");
-const path =  require("path");
 const htmlRoutes = require("./routes/htmlRoutes");
 const apiRoutes = require("./routes/apiRoutes")
 //create a server
